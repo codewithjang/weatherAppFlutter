@@ -67,7 +67,7 @@ flutter build apk --release --dart-define=OPENWEATHER_API_KEY=YOUR_KEY
 ```
  ---
 
- ##▶️ Run บนเครื่อง (Local Development)
+ ## ▶️ Run บนเครื่อง (Local Development)
  - flutter pub get
  - flutter run -d chrome --dart-define=OPENWEATHER_API_KEY=YOUR_KEY
 
@@ -81,7 +81,7 @@ flutter build apk --release --dart-define=OPENWEATHER_API_KEY=YOUR_KEY
 
 ---
 
-##🙌 Credits
+## 🙌 Credits
 
 - Flutter & Dart
 - OpenWeatherMap API
@@ -96,5 +96,4 @@ flutter build apk --release --dart-define=OPENWEATHER_API_KEY=YOUR_KEY
 📅 Deploy สำเร็จ: 23 ตุลาคม 2025
 🌐 Demo: https://codewithjang.github.io/weatherAppFlutter/
 
-## 🗂️ โครงสร้างโปรเจกต์
 
