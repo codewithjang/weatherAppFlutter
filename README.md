@@ -74,11 +74,11 @@ flutter build apk --release --dart-define=OPENWEATHER_API_KEY=YOUR_KEY
  --- 
  📸 ตัวอย่าง
  
-<img width="1280" height="2856" alt="Screenshot_20251023_213040" src="https://github.com/user-attachments/assets/d725c8af-73c7-42f5-9218-ee01df337e07" />
-<img width="1280" height="2856" alt="Screenshot_20251023_213106" src="https://github.com/user-attachments/assets/d4d9e6ff-dad2-424a-9867-eac0ae3b644e" />
-<img width="1280" height="2856" alt="Screenshot_20251023_213202" src="https://github.com/user-attachments/assets/af0b5276-46a7-4762-baef-4fdf6079976f" />
-<img width="1280" height="2856" alt="Screenshot_20251023_213222" src="https://github.com/user-attachments/assets/e78c6fc2-96fe-4662-a9db-dc723a78ffe1" />
-<img width="1280" height="2856" alt="Screenshot_20251023_213133" src="https://github.com/user-attachments/assets/cf8f0ef4-c47f-4b47-9e04-262ebd9e782c" />
+<img height="480" alt="Screenshot_20251023_213040" src="https://github.com/user-attachments/assets/d725c8af-73c7-42f5-9218-ee01df337e07" />
+<img height="480" alt="Screenshot_20251023_213106" src="https://github.com/user-attachments/assets/d4d9e6ff-dad2-424a-9867-eac0ae3b644e" />
+<img height="480" alt="Screenshot_20251023_213202" src="https://github.com/user-attachments/assets/af0b5276-46a7-4762-baef-4fdf6079976f" />
+<img height="480" alt="Screenshot_20251023_213222" src="https://github.com/user-attachments/assets/e78c6fc2-96fe-4662-a9db-dc723a78ffe1" />
+<img height="480" alt="Screenshot_20251023_213133" src="https://github.com/user-attachments/assets/cf8f0ef4-c47f-4b47-9e04-262ebd9e782c" />
 
 ---
 
